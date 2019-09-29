@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hello
 sections:
   - section_id: hero
     component: hero_block.html
